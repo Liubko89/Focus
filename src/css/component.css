@@ -1,0 +1,12 @@
+body {
+  font-family: 'Dm sans', sans-serif;
+  margin: 0;
+}
+
+.background-header-hero {
+  background-color: black;
+  background-image: url(../img/Graphic.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
